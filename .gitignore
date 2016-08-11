@@ -1,3 +1,4 @@
+h2o-models/*
 input-data/*
 !input-data/Variables_vs_Hyphotesis.png
 !input-data/producto_clusters.csv
