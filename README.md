@@ -5,7 +5,7 @@ Steps to download the repo in local git:
 
 1) In your local folder Kaggler/Bimbo: sudo git init
 
-2) git config --global user.email "pablo.marin@gmail.com"
+2) git config --global user.email "xxx@xxx.com"
 
 3) git config --global user.name "Pablo Marin"
 
