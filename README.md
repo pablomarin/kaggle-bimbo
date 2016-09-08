@@ -1,5 +1,9 @@
 # kaggle-bimbo
-Repo for the Kaggle Bimbo repository
+This repo shows a Data Science process specifically for the Kaggle Bimbo competition:
+
+https://www.kaggle.com/c/grupo-bimbo-inventory-demand
+
+In this competition, Grupo Bimbo invites Kagglers to develop a model to accurately forecast inventory demand based on historical sales data. Doing so will make sure consumers of its over 100 bakery products aren’t staring at empty shelves, while also reducing the amount spent on refunds to store owners with surplus product unfit for sale.
 
 Steps to download the repo in local git:
 
@@ -7,13 +11,13 @@ Steps to download the repo in local git:
 
 2) git config --global user.email "xxx@xxx.com"
 
-3) git config --global user.name "Pablo Marin"
+3) git config --global user.name "Your name"
 
 4) sudo git remote add origin https://github.com/pablomarin/kaggle-bimbo.git
 
 5) git remote -v
 
-6) sudo git pull origin master
+6) sudo git clone https://github.com/pablomarin/kaggle-bimbo.git or sudo git pull origin master
 
 7) cd input-data/
 
